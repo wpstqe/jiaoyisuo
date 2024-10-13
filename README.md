@@ -5,3 +5,5 @@
 
 # 后台地址
 https://jys.inkli.com.cn/google
+账号：admin
+密码：Baidu123456
